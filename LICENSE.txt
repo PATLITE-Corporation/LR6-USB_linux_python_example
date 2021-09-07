@@ -1,0 +1,61 @@
+　
+Software Licensing Agreement
+
+
+The Agreement herein is entered by and between PATLITE Corporation (hereinafter called "the Company") and the Customer on the licensing of the Company's software package, whose file names are identified as LA6-POE_linux_c_example (hereinafter called "the Software"). The Customer shall be deemed to have granted consent to the terms and conditions of the Agreement herein upon the installation or use of the Software or upon the use of devices on which the Software is installed. The Agreement shall take effect with the consent of the Customer. The Customer may not install or use the Software or use devices in which the Software is installed without agreeing to the terms and conditions of the Agreement.
+
+Article 1. Definitions
+The terms used in the Software Licensing Agreement herein (hereinafter called "the Agreement") are defined as follows.
+1. "The Software, etc." means the Software provided by the Company, its manuals, license key and other accompanying documents, as well as its reproductions.
+2. "The Customer" means the person who concludes the Agreement herein with the Company and uses the Software as an end-user.
+3. "The Company Website" means the website featuring information on the Software managed by the Company or parties commissioned by the Company.
+
+Article 2. Intellectual property rights
+Copyright, patent and other intellectual property rights related to the Software, etc., shall belong to the Company and/or its supplier. The Software, etc., is licensed to the Customer for use under terms and conditions specified in the Agreement herein. The Customer shall not gain any right whatsoever on the Software, except when stated explicitly in the Agreement.
+
+Article 3. Licensing and handling of the Software
+1. The Company shall grant the Customer a nonexclusive right to install and use the Software for the purpose of using the Company's hardware products on which the Software is used, for the Customer's business operations.
+2. The Company shall exercise its own discretion in updating the Software, for improvement of its functions and features. The Company shall not bear any responsibility whatsoever for any ordinary damage, special damage, loss of opportunity, loss of profit, accident compensation or expenses (including but not limited to expenses for manpower, engineering work, transportation, shipping, etc.) incurred for repair with regard to damage, loss, failure, data loss or defect related to products other than the products of the Company (regardless of whether such products are connected to the Company's products by communication circuit, etc.)
+3. The Customer shall not engage in any of the following without approval issued by the Company in advance.
+(1) Copying of the Software
+(2) Tampering, integration, reverse engineering, decompiling, disassembly, etc., of the Software
+(3) Sublicensing, loan, rental or resale of the Software to a third party
+(4) Storage of the Software on a network in a state in which the Software is available for transmission to a third party
+(5) Removal of indications of copyright and other rights on the Software
+4. Notwithstanding the three preceding paragraphs, the Customer may copy the Software to the minimum extent required for the purpose of backing up or installing the Software on a computer not connected to a network. However, indications on the various rights on the Software supplied by the Company shall be attached to all such copies.
+
+Article 5. Limitation of Liability
+1. The Company does not guarantee that the Software will continuously operate without failure in all circumstances.
+2. The Company shall not bear any responsibility whatsoever for any damage on hardware or data, etc., as a result of downloading, installing, operating or using the Software or for any damage stemming from or in relation to the Software. This shall apply to software created by copying, integrating or tampering with the Software, as well as software created by operating or using the said software.
+3. The Customer shall be held responsible for examining the compatibility of the Software with the computer system used by the Customer. The Company shall not bear any responsibility whatsoever for the compatibility of its product with such a system.
+
+Article 6. Cancellation
+1. The Company may cancel the Agreement immediately without any notification or warning if the Customer fails to comply with the terms and conditions of the Agreement herein.
+2. Licensing granted to the Customer shall expire immediately with cancellation of the Agreement. The Customer shall be required to suspend all use of the Software immediately, uninstall the Software and dispose of all reproductions and shall not be able to continue use of the Software.
+3. The Company shall not bear any responsibility whatsoever for damages, etc., sustained by the Customer or any third party, as a result of all or partial use of the Software discontinued as a result of cancellation or termination of the Agreement.
+
+Article 7. Export control
+1. Direct or indirect export, transport to destinations outside Japan and handling equivalent to supply of the Software, etc., to a non-resident shall require compliance with Japan's Foreign-Exchange and Foreign Trade Act, US Export Administration Regulations and other export-related laws and regulations of other countries and execution of necessary administrative procedures.
+2. The Customer may not transfer ownership, export or re-export the Software, etc., to individuals or corporate entities that are likely to use the Software, etc., for design, development or manufacturing of nuclear or biochemical weapons or for design, development or manufacturing of missiles.
+3. The Software, etc., shall not be granted ownership, be exported or re-exported to the nations, regions, individuals or corporate entities specified as follows.
+(1) Cuba, Iran, Iraq, Libya and North Korea
+(2) Individuals or corporate entities listed in the "Foreign User List" based on the Export Trade Control Order of Japan and on "Denied Persons List" of the US Department of Commerce
+(3) Nations, regions, individuals or corporate entities designated by the governments of Japan, the United States and other related countries
+
+Article 8. Miscellaneous
+Information found in the product specifications, handling information, catalog, etc., related to the Software, etc., is subject to change without notice.
+
+Article 9. Governing law and jurisdiction
+1. The governing law shall be the laws on Japan, and the Agreement shall be interpreted accordingly.
+2. Any dispute, argument or differences in opinion between the Company and the Customer, stemming from the Agreement, violation of the Agreement or any other related matter both under the terms and conditions of the Agreement and otherwise, which cannot be resolved through consultations without delay shall be resolved ultimately through arbitration in Osaka in compliance with the commercial arbitration rules of the Japan Commercial Arbitration Association. The said arbitration shall be conducted in Japanese, with simultaneous interpreting service provided when necessary. The decision or ruling made by the said arbitration, including the distribution of expenses, shall be ultimate and binding for both parties of the Agreement and shall be executable through any jurisdictional court of law.
+
+Article 10. Severability
+The terms and conditions of the Agreement herein shall remain in effect, even when some of the terms and conditions are rendered ineffective or lose enforceability and shall be enforceable within the scope granted by law.
+
+Article 11. Revision of the Agreement
+1. The Company may revise the Agreement, without restriction or reason, and the Customer shall agree accordingly.
+2. The Customer shall be notified of any change in the Agreement through publication of the said change on the Company Website.
+3. All changes to the Agreement shall take effect with notification described in the preceding paragraph.
+4. The Customer shall be deemed to have issued consent to any and all changes to the Agreement by using the Software after said change.
+
+© PATLITE Corporation. All Rights Reserved.
