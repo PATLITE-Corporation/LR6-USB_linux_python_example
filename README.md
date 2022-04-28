@@ -15,7 +15,7 @@ The purpose of this program is to control Linux in phython without using the DLL
  
 ## Description
 
-Ethernet Modbus TCP & TCP/IP, POE (DC48V), Alarm, Direct mount, off-white body
+USB2.0, Alarm, Direct mount, off-white body
 
 * PC or HMI controlled
 * Open architecture for custom programming (Windows® / Linux)
