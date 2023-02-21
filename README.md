@@ -4,6 +4,10 @@ The outline of the sample program for controlling LR-USB by communication protoc
 
 The purpose of this program is to control Linux in phython without using the DLL provided by Patlite.
 
+If you have any enquiries about sample source code or our products, please contact us from below the URL.
+
+< https://www.patlite.com/contact/english/input.html >
+
 ![LR6-USB-group-s.png](https://cdn3.volusion.com/zfyub.tbqzg/v/vspfiles/photos/LR6-USBK-4T.jpg?v-cache=1627546983"LR6-USB-group-s.png")
 
 
