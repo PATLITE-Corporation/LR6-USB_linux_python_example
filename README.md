@@ -48,3 +48,5 @@ USB2.0, Alarm, Direct mount, off-white body
 |AUDIBLE STYLE|4 alarm sounds available|
 |CONFORMITY STANDARDS|EMC Directive, RoHS, UL, FCC, KC|
 |PROTECTION RATINGS|IP65 (IEC 60529), except when pole or wall mounted. NEMA Type 4X, 13|
+
+
