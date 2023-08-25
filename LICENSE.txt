@@ -2,7 +2,7 @@
 Software Licensing Agreement
 
 
-The Agreement herein is entered by and between PATLITE Corporation (hereinafter called "the Company") and the Customer on the licensing of the Company's software package, whose file names are identified as LA6-POE_linux_c_example (hereinafter called "the Software"). The Customer shall be deemed to have granted consent to the terms and conditions of the Agreement herein upon the installation or use of the Software or upon the use of devices on which the Software is installed. The Agreement shall take effect with the consent of the Customer. The Customer may not install or use the Software or use devices in which the Software is installed without agreeing to the terms and conditions of the Agreement.
+The Agreement herein is entered by and between PATLITE Corporation (hereinafter called "the Company") and the Customer on the licensing of the Company's software package, whose file names are identified as LR6-USB_linux_python_example (hereinafter called "the Software"). The Customer shall be deemed to have granted consent to the terms and conditions of the Agreement herein upon the installation or use of the Software or upon the use of devices on which the Software is installed. The Agreement shall take effect with the consent of the Customer. The Customer may not install or use the Software or use devices in which the Software is installed without agreeing to the terms and conditions of the Agreement.
 
 Article 1. Definitions
 The terms used in the Software Licensing Agreement herein (hereinafter called "the Agreement") are defined as follows.
