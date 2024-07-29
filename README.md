@@ -8,7 +8,7 @@ If you have any enquiries about sample source code or our products, please conta
 
 < https://www.patlite.com/contact/english/input.html >
 
-![LR6-USB-group-s.png](https://cdn3.volusion.com/zfyub.tbqzg/v/vspfiles/photos/LR6-USBK-4T.jpg?v-cache=1627546983"LR6-USB-group-s.png")
+![LR6-USB](https://github.com/user-attachments/assets/8c0fc9c9-2847-42d3-9df6-6e09d73a570f)
 
 
 [Product info](https://www.patlite.com/product/detail0000000689.html) 
