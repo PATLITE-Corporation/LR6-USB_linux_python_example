@@ -1,4 +1,4 @@
-# LR6-USB_linux_phython_example  
+# LR6-USB_linux_python_example  
 
 The outline of the sample program for controlling LR-USB by communication protocol is described.
 
